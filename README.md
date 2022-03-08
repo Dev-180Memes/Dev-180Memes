@@ -56,3 +56,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="40" width="40"/>
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=Dev-180Memes&show_icons=true&hide_border=true" alt="Stats" />
