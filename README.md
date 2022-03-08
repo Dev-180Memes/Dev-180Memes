@@ -5,7 +5,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ About Me</h2>
 <ul>
-<li>🔭 I’m currently Data Security</li>
+<li>🔭 I’m currently learning Data Security</li>
 <li>🧐 I am literaly married to my system</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Dev-180Memes">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://dev.to/dev180memes">Dev.to</a>.</li>
