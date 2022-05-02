@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Adeoluwa Agbakosi</h2>
 <p>I am a Full Stack Web Developer, MLOps Engineer, Technical Writer, and Tech Tutor</p>
-<p><a href="www.linkedin.com/in/adeoluwa-agbakosi-687023219"><img src="https://img.shields.io/badge/-Adeoluwa%20Agbakosi-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> <a href="https://dev.to/dev180memes"><img src="https://img.shields.io/badge/-Dev--180Memes-000000?style=plastic&amp;labelColor=000&amp;logo=dev.to&amp;link=https://dev.to/dev180memes" alt="DevTo Badge"></a> <a href="https://twitter.com/Dev_180Memes"><img src="https://img.shields.io/badge/-Dev__180Memes-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a> <a href="mailto:adeoluwaagbakosi@gmail.com"><img src="https://img.shields.io/badge/-Adeoluwa%20Agbakosi-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
+<p><a href="www.linkedin.com/in/adeoluwa-agbakosi-687023219"><img src="https://img.shields.io/badge/-Adeoluwa%20Agbakosi-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> <a href="https://dev.to/dev180memes"><img src="https://img.shields.io/badge/-Dev--180Memes-000000?style=plastic&amp;labelColor=000&amp;logo=dev.to&amp;link=https://dev.to/dev180memes" alt="DevTo Badge"></a> <a href="https://twitter.com/Dev_180Memes"><img src="https://img.shields.io/badge/-Dev__180Memes-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a> <a href="mailto:adeoluwaagbakosi@gmail.com"><img src="https://img.shields.io/badge/-Adeoluwa%20Agbakosi-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a> <a href="https://dev180memes.hashnode.dev/"><img src="https://img.shields.io/badge/-DevNext-000000?style=plastic&amp;labelColor=000&amp;logo=Hashnode&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Hashnode Badge"></a></p>
 <p> Thanks for visiting my Github Profile </p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ About Me</h2>
@@ -8,7 +8,7 @@
 <li>🔭 I’m currently learning Data Security</li>
 <li>🧐 I am married to my system</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Dev-180Memes">Github</a>.</li>
-<li>📝 I regulary write articles on <a href="https://dev.to/dev180memes">Dev.to</a>.</li>
+<li>📝 I regulary write articles on <a href="https://dev.to/dev180memes">Dev.to</a> and <a href="https://dev180memes.hashnode.dev/">Hashnode</a>.</li>
 <li>💬 Ping me about <strong>react, vue, node, php</strong>.</li>
 <!-- <li>📙 Check out my <a href=" ">resume</a>.</li> -->
 <li>🎉 Fun Fact: I'm a Memer </li>
@@ -18,8 +18,9 @@
     <summary>Explore</summary>
     <li><a target="_blank" href="https://dev.to/dev180memes/deploying-recommender-systems-algorithm-to-a-web-app-1gbo">Deploying Recommender Systems Algorithm To A Web App.</a></li>
     <li><a target="_blank" href="https://dev.to/dev180memes/cyber-security-a-run-through-1jkl">Cyber Security: A Run Through</a></li>
+    <li><a target="_blank" href="https://dev180memes.hashnode.dev/series/javascript-advanced">Building A URL Shortener</a></li>
 </details>
-<p><a target="_blank" href="https://dev.to/dev180memes">Read More</a></p>
+<p><a target="_blank" href="https://dev180memes.hashnode.dev/">Read More</a></p>
 <h2> My Tools </h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" height="40" width="40" />
@@ -31,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="JQuery" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" width="40"/>
