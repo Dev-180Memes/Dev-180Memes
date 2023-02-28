@@ -5,13 +5,12 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ About Me</h2>
 <ul>
-<li>🔭 I’m currently building LearnDev Foundation</li>
+<li>🔭 I’m currently Researching ML Applications in CyberSec and building LearnDev Foundation</li>
 <li>🧐 I am married to my system</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Dev-180Memes">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://dev.to/dev180memes">Dev.to</a> and <a href="https://dev180memes.hashnode.dev/">Hashnode</a>.</li>
-<li>💬 Ping me about <strong>react, vue, node, php</strong>.</li>
+<li>💬 Ping me about <strong>Web Dev and ML Engineering</strong>.</li>
 <!-- <li>📙 Check out my <a href=" ">resume</a>.</li> -->
-<li>🎉 Fun Fact: I'm a Memer </li>
 </ul>
 <h2>✒️ Recent Posts</h2>
 <details>
